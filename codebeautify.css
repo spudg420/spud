@@ -116,7 +116,7 @@
   font-family: 'Google Sans', sans-serif !important; }
 
 ::selection {
-  background: #859fbf;
+  background: transparent;
   text-shadow: none; }
 
 body,
